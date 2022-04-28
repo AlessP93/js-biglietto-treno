@@ -17,6 +17,5 @@ if (etàUtente < 18) {
  
 const prezzoRidotto = prezzo - sconto;
 console.log("Il miglior prezzo è " + prezzoRidotto)
-
 // L'output del prezzo finale va messo fuori in forma umana (con massimo due decimali, per indicare centesimi sul prezzo). Questo richiederà un minimo di ricerca.
 document.getElementById("title").innerHTML = `Il prezzo scontato è ${prezzoRidotto}`
