@@ -1,0 +1,21 @@
+body {
+    background-image: url("https://getwallpapers.com/wallpaper/full/9/1/d/364210.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.container {
+    display: flex;
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    opacity: 3;
+    justify-content: center;
+}
+
+.title {
+    justify-content: center;
+}
